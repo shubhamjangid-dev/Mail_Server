@@ -1,0 +1,6 @@
+1). make a ec2 instance on aws (my_mail_server)
+2). connect to this instance
+3). install node js
+4). pull code from git hub
+5). npm install
+6). run server
